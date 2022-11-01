@@ -1,0 +1,17 @@
+.navbar{
+    border-bottom: 2px solid var(--grey);
+}
+#search-icon-box{
+    border: none;
+    background-color: var(--greylight);
+}
+.navbar-toggler{
+    border: none;
+}
+.header-center-box{
+    width: 60%;
+}
+
+.header-center-box .input-group{
+    width: 60%;
+}
